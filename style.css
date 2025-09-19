@@ -2,10 +2,14 @@ body{
     background-color: rgb(4, 4, 246);
     color:rgb(63, 218, 239); 
     font-family: font-family: "Oswald", sans-serif;
+    margin : 0px;
 }
 header{
     font-size: 65px;
-    border : double  3px  rgb(5, 17, 66);
+    border-bottom:  double  3px  rgb(5, 17, 66);
+    text-align:center;
+   /* margin: 30px;*/
+   padding: 5px;
 }
 h1{
     font-size:  40px;
