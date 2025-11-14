@@ -1,6 +1,6 @@
 body{
     background-color: rgb(4, 4, 246);
-    color:rgb(63, 218, 239); 
+    color:rgb(10, 179, 209); 
     font-family: font-family: "Oswald", sans-serif;
     margin : 0px;
 }
@@ -20,8 +20,12 @@ p{
 }
 
 section{
-background-color: black;
+background-color: rgb(13, 13, 13);
 padding-bottom: 80px;
 display: flex;
 justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 10%;
 }
